@@ -1,6 +1,6 @@
 ### require 
-- [](https://github.com/adafruit/Adafruit-GFX-Library)
-- [](https://github.com/adafruit/TFTLCD-Library)
+- [TFTLCD](https://github.com/adafruit/TFTLCD-Library)
+- [Adafruit-GFX](https://github.com/adafruit/Adafruit-GFX-Library)
 
 ### usage with platformio
 ```
