@@ -6,5 +6,4 @@
 ```
 > platformio lib install 32
 > platformio run --target=upload
-#> platformio device monitor
 ```
